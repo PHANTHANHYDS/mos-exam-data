@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "schools": [
+    {
+      "name": "THPT Hồ Thị Bí",
+      "classes": [
+        {
+          "name": "Lớp 10A",
+          "password": "hothi@2026",
+          "expiry": "2026-12-31"
+        },
+        {
+          "name": "Lớp 10A2",
+          "password": "10a2",
+          "expiry": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "name": "TT GDTX Phú Nhuận",
+      "classes": [
+        {
+          "name": "Lớp 10A",
+          "password": "gdtxpn@2026",
+          "expiry": "2026-06-30"
+        }
+      ]
+    }
+  ]
+}
